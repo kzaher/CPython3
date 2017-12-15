@@ -1,0 +1,5 @@
+module Python3 [system] {
+  header "Python.h"
+  link "python3"
+  export *
+}
