@@ -1,4 +1,4 @@
 module Python3 [system] {
-  header "Python.h"
+  header "CPython3.h"
   export *
 }
